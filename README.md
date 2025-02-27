@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Elias!
 
-I am a **full-stack developer** from **El Salvador** 🇸🇻, passionate about web development and learning new technologies 🚀.  
-I enjoy building modern web applications and working on **collaborative projects**.
+I am a **full-stack developer** from **El Salvador** 🇸🇻, passionate about web development 🧑🏻‍💻.  
 
 ### 🛠️ Technologies & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
